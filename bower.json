@@ -29,6 +29,7 @@
     "font/*.otf",
     "pkg",
     "reference/styles.css",
-    "tools"
+    "tools",
+    "Makefile"
   ]
 }
