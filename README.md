@@ -1,3 +1,3 @@
 # StateFace
 
-A font you can use in your web apps when you want tiny state shapes as a design element. [Documentation](http://propublica.github.com/stateface/)
+This is a fork of the StateFace font from [propublica](http://propublica.github.com/stateface/) that support Bower and font-awesome style css for easy use in bootstrap sites.
