@@ -1,6 +1,11 @@
 {
   "name": "stateface",
   "version": "1.0.1",
+  "description": "Stateface, an icon font library for the 50 US states, DC, and Puerto Rico.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deardooley/stateface.git"
+  },
   "main": [
     "font/webfont/stateface-regular-webfont.eot",
     "font/webfont/stateface-regular-webfont.svg",
@@ -25,13 +30,5 @@
     "pkg",
     "reference/styles.css",
     "tools"
-  ],
-  "_release": "1.0.1",
-  "_resolution": {
-    "type": "version",
-    "tag": "v1.0.1",
-    "commit": "0b924144a95a54fa738d0450ff66c1dabd11ae74"
-  },
-  "_source": "git://github.com/deardooley/stateface.git",
-  "_target": "1.0.1"
+  ]
 }
